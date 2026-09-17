@@ -13,13 +13,18 @@ div{
     height: 50vh;
     width: 50vw;
     background-color: pink;
-    
+    font-size: 20px;
 }
 
 p{
-    font-size: 2rem;
+    font-size: 2em;
 }
 
 span{
     font-size: 2rem;
+}
+
+div div{
+    background-color: brown;
+    height: 120dvh;
 }
