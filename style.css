@@ -7,6 +7,8 @@
 html,body{
     height: 100%;
     width: 100%;
+    background-color: skyblue;
+    border: 200px;
 }
 
 div{
@@ -27,4 +29,11 @@ span{
 div div{
     background-color: brown;
     height: 120dvh;
+}
+
+nav{
+    height: 1000px;
+    width: 400px;
+    background-color: blanchedalmond;
+    font-size: 48px;
 }
