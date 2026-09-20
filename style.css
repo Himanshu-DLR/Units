@@ -8,7 +8,6 @@ html,body{
     height: 100%;
     width: 100%;
     background-color: skyblue;
-    border: 200px;
 }
 
 div{
@@ -36,4 +35,18 @@ nav{
     width: 400px;
     background-color: blanchedalmond;
     font-size: 48px;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+    border-radius: 4%;
+}
+
+input{
+    width: 400px;
+    height: 30px;
+    background-color: sandybrown;
+    border-color: red;
+    border-radius: 4%;
 }
