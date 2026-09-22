@@ -50,3 +50,8 @@ input{
     border-color: red;
     border-radius: 4%;
 }
+
+::placeholder{
+    color: white;
+    font-size: 20px;
+}
