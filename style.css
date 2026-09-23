@@ -55,3 +55,21 @@ input{
     color: white;
     font-size: 20px;
 }
+
+.box p{
+    background-color: antiquewhite;
+    color: green;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 600;
+    border-color: black;
+    border-radius: 4%;
+}
+
+button{
+    padding: 10px;
+    color: white;
+    background-color: blueviolet;
+    border-style: 0px 2px black;
+    box-shadow: 2px black;
+}
